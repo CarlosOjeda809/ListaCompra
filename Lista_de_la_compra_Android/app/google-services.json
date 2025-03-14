@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "932378574534",
+    "firebase_url": "https://fir-13cf6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-13cf6",
+    "storage_bucket": "fir-13cf6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932378574534:android:d1ff4c66a700d2fc8661c7",
+        "android_client_info": {
+          "package_name": "aaronpiera.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_jsCLBn83aiaTij6WmoX9gj8OlauKE4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932378574534:android:9dbdcc6942be4b388661c7",
+        "android_client_info": {
+          "package_name": "com.example.listadelacompra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_jsCLBn83aiaTij6WmoX9gj8OlauKE4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932378574534:android:e3675b88e2584aa28661c7",
+        "android_client_info": {
+          "package_name": "com.example.simulacro1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_jsCLBn83aiaTij6WmoX9gj8OlauKE4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
